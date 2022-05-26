@@ -6,6 +6,7 @@ Hello World!
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 
 ![Yure Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=radical)
+api/top-langs?username=Yur3e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e&exclude_repo=github-readme-stats,Yur3e.github.io)](https://github.com/Yur3e/github-readme-stats)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
