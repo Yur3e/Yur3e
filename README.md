@@ -6,11 +6,9 @@ Hello World!
   [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Yur3e">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e&langs_count=8)](https://github.com/Yur3e/github-readme-stats)
   
   ![Snake animation](https://github.com/Yur3e/Yur3e/blob/output/github-contribution-grid-snake.svg)
