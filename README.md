@@ -5,8 +5,10 @@ Hello World!
 [![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 
-![Yure Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=radical)
-api/top-langs?username=Yur3e
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e&exclude_repo=github-readme-stats,Yur3e.github.io)](https://github.com/Yur3e/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Yur3e">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
