@@ -6,4 +6,4 @@ Hello World!
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 ![Yure Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/Yur3e/Yur3e)
+![Snake animation](https://github.com/Yur3e)
