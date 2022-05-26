@@ -9,7 +9,7 @@ Hello World!
 <div align="center">
   <a href="https://github.com/Yur3e">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e)](https://github.com/Yur3e/github-readme-stats))"/>
+  <img height="120em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e)](https://github.com/Yur3e/github-readme-stats))"/>
 </div>
   
   ![Snake animation](https://github.com/Yur3e/Yur3e/blob/output/github-contribution-grid-snake.svg)
