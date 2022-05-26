@@ -1,9 +1,9 @@
 Hello World!
 
 <div align="center">
-<img align="center"[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)>
-<img align="center"[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/yure-fernandes/)>
-<img align="center"[![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)>
-<img align="center"[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)>
-<img align="center" ![Yure Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=radical)>
+<align="center"[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)>
+<aalign="center"[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/yure-fernandes/)>
+<align="center"[![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)>
+<align="center"[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)>
+<align="center" ![Yure Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=radical)>
 </div>
