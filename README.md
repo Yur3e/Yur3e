@@ -36,4 +36,10 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e&theme=vision-friendly-dark&hide_progress=false"/>
   </a>
 </div>
+
+## :iphone: Social Links
+<a href="https://www.linkedin.com/in/yure-fernandes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Yur3e-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
+</a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
