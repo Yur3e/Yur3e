@@ -3,14 +3,9 @@
 - 🔥 Back-end <3
 - :smiley: Aprender novas coisas
 - 🐧Ubuntu <3
-
-
-<div align="center">
-  <a href="https://github.com/Yur3e">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
+- Thinking...
+- Compiling...
+- Too slow...
 
 ## ***:wrench:Tech Stack***
 <div align="center">
@@ -25,4 +20,14 @@
 [![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/yure-fernandes/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 
+</div>
+
+## ***:pushpin:GitHub Stats***
+
+<div align="center">
+  <a href="https://github.com/Yur3e">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yur3e&theme=vision-friendly-dark&hide_border=false"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e&theme=vision-friendly-dark&hide_progress=false"/>
+  </a>
 </div>
