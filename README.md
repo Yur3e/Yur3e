@@ -1,11 +1,18 @@
 # Hello World!
 
+- 🔥 Back-end <3
+- :smiley: Aprender novas coisas
+- 🐧Ubuntu <3
+
+
 <div align="center">
   <a href="https://github.com/Yur3e">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
+
+# ***:wrench:Tech Stack***
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
