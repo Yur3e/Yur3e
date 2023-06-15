@@ -1,7 +1,7 @@
 ## Hello World!
 
 - 🔥 Back-end <3
-- :smiley: Aprender novas coisas
+- :smiley: Aprender coisas novas
 - 🐧Ubuntu <3
 - Thinking...
 - Compiling...
@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/Yur3e">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Yur3e&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=false"/>
     <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yur3e&theme=vision-friendly-dark&hide_border=false"/>
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yur3e&theme=vision-friendly-dark&hide_progress=false"/>
   </a>
