@@ -1,4 +1,4 @@
-# Hello World!
+## Hello World!
 
 - 🔥 Back-end <3
 - :smiley: Aprender novas coisas
@@ -12,7 +12,7 @@
 </div>
 
 
-# ***:wrench:Tech Stack***
+## ***:wrench:Tech Stack***
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
