@@ -41,3 +41,4 @@
   <img align="center" src="https://img.shields.io/badge/-Yur3e-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
 </a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
+
