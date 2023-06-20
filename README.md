@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+I+am+Yure+Fernandes,+Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-
 - 🔥 Back-end <3
 - :smiley: Aprender coisas novas
 - 🐧Ubuntu <3
@@ -41,5 +40,4 @@
 <a href="https://www.linkedin.com/in/yure-fernandes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Yur3e-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
 </a>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
