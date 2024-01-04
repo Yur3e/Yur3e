@@ -3,13 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+I+am+Yure+Fernandes,+Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 - 🔥 Back-end
-- :smiley: Aprender coisas novas
-- 🐧Ubuntu 
-- Thinking...
-- Compiling...
-
-
-![CAT](https://github.com/Yur3e/Yur3e/assets/88630655/c322523a-a851-4432-af91-d75a64da4d09)
 
 ## ***:wrench:Tech Stack***
 <div align="center">
