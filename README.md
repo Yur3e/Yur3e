@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+Me+Chamo+Yure,+Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
-- 🔥 Back-end
 
-## ***:wrench:Tech Stack***
+## ***:wrench:Tech Stack em Desenvolvimento...***
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
