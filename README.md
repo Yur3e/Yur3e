@@ -8,6 +8,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
+[![Java](https://img.shields.io/badge/Java-092E20?style=for-the-badge&logo=java&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.linkedin.com/in/yure-fernandes/)
 [![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/yure-fernandes/)
 [![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/yure-fernandes/)
