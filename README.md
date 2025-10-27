@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!)](https://git.io/typing-svg) 
 
 
-## ***:wrench:Tech Stack em aprimoramento...***
+## ***:wrench:Aprendendo alguma coisa..***
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/jyfernandes/)
