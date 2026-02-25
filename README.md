@@ -19,10 +19,12 @@
 
 </div>
 
-## :iphone: Social Links
-<a href="https://www.linkedin.com/in/yure-fernandes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Yur3e-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
-</a>
+<h2 align="left">📱 Social Links</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yure-fernandes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-José%20Yure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=507080&height=120&section=header"/>
-
