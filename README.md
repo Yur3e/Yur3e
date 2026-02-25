@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=507080&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!)](https://git.io/typing-svg) 
 
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&pause=800&repeat=true&width=600&lines=🛠️+Aprendendo+alguma+coisa.;🛠️+Aprendendo+alguma+coisa..;🛠️+Aprendendo+alguma+coisa..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&pause=450&repeat=true&width=800&lines=🛠️+Aprendendo+alguma+coisa.;🛠️+Aprendendo+alguma+coisa..;🛠️+Aprendendo+alguma+coisa..." />
 </h2>
 
 <div align="center">
@@ -23,5 +23,6 @@
 <a href="https://www.linkedin.com/in/yure-fernandes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Yur3e-05122A?style=flat&logo=linkedin" alt="Linkedin"/>
 </a>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=507080&height=120&section=header"/>
 
