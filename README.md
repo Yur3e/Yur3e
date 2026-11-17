@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 💻 Desenvolvimento de Software • APIs REST • Sistemas Web
+### 💻 Analista de Sistemas | Desenvolvimento de Software • APIs REST • Sistemas Web
 
 Desenvolvedor Full Stack com foco no ecossistema **C#/.NET**, atuando com  
 desenvolvimento e manutenção de aplicações web, APIs, integrações e bancos de dados.
